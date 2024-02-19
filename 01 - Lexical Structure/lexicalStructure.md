@@ -4,6 +4,12 @@
 - Wie Variablennamen auszusehen haben, welche Zeichen ein Kommentar einleiten oder wie man Programmanweisungen trennen sollte.
 
 ```bash
-// Single-line comment
-/* Also single line comment*/
+// Single line comment
+/* Also single line comment */
+/*
+ *
+ * Multi line comment
+ *
+ */
+ /* Also a comment */ // and another
 ```
