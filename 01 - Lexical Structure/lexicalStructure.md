@@ -17,6 +17,8 @@
  */
 
 /* Also a comment */ // and another
+
+/* Nesting /*doesn't work*/ */
 ```
 
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
