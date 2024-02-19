@@ -5,7 +5,7 @@
 
 ## Kommentare
 
-```bash
+```js
 // Single line comment
 
 /* Also single line comment */
@@ -16,7 +16,7 @@
  *
  */
 
- /* Also a comment */ // and another
+/* Also a comment */ // and another
 ```
 
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
