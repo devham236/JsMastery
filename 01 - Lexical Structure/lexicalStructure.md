@@ -18,3 +18,5 @@
 
  /* Also a comment */ // and another
 ```
+
+- Kommentare können beliebig lang sein, können aber nicht "genested" werden.
