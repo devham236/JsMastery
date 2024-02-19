@@ -1,0 +1,1 @@
+# Lexikalische Struktur
