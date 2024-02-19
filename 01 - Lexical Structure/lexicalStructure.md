@@ -5,11 +5,14 @@
 
 ```bash
 // Single line comment
+
 /* Also single line comment */
+
 /*
  *
  * Multi line comment
  *
  */
+
  /* Also a comment */ // and another
 ```
