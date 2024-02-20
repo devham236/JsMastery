@@ -25,7 +25,7 @@
 
 ## Literale
 
-- Ein Literal ist ein Wert ohne Deklaration einer Variable
+- Ein Literal ist ein alleinstehender Wert
 - Zum Beispiel:
 
 ```js
