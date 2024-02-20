@@ -42,3 +42,17 @@ null; // Oder die Abwesenheit eines objects
 - Also einfach alle Datentypen, ohne Zuweisung einer Variable, sind Literale
 
 ## Indentifier
+
+- Sind Namen von variables, functions, methods, events, properties, objects, classes usw.
+- Ein Identifier muss mit einem underscore **(\_)**, einem dollar sign **($)** oder mit einem Buchstaben beginnen.
+- Darf nicht mit einer Zahl beginnen, damit JavaScript numbers und identifiers unterscheiden kann.
+- Folgende Identifier sind in Ordnung:
+
+```js
+i
+my_variable_name
+v13
+_dummy
+$str
+3variable       //Gibt einen Syntax error wieder
+```
