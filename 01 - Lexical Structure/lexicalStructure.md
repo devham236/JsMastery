@@ -5,7 +5,7 @@
 
 ## Kommentare
 
-- Ermöglichen es dir freie Bemerkungen/Tipps/Erklärungen usw. in deinen Code zu integrieren ohne diesen zu unterbrechen oder in irgendeine Art und Weise zu beeinflussen
+- Ermöglichen es dir freie Bemerkungen/Tipps/Erklärungen usw. in deinen Code zu integrieren ohne diesen zu unterbrechen oder in irgendeiner Art und Weise zu beeinflussen
 - JavaScript interpretiert folgende Zeilen als Kommentar und ignoriert diese:
 
 ```js
