@@ -41,4 +41,4 @@ null; // Oder die Abwesenheit eines objects
 
 - Also einfach alle Datentypen, ohne Zuweisung einer Variable, sind Literale
 
-## Indentifier und Reservierte Wörter
+## Indentifier
