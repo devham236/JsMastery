@@ -3,7 +3,7 @@
 - Bestimmt, wie eine Programmiersprache geschrieben werden muss.
 - Wie Variablennamen auszusehen haben, welche Zeichen ein Kommentar einleiten oder wie man Programmanweisungen trennen sollte.
 
-## Kommentare
+## Comments
 
 - Ermöglichen es dir freie Bemerkungen/Tipps/Erklärungen usw. in deinen Code zu integrieren ohne diesen zu unterbrechen oder in irgendeiner Art und Weise zu beeinflussen
 - JavaScript interpretiert folgende Zeilen als Kommentar und ignoriert diese:
@@ -26,7 +26,7 @@
 
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
 
-## Literale
+## Literals
 
 - Ein Literal ist ein alleinstehender Wert
 - Zum Beispiel:
@@ -56,3 +56,5 @@ _dummy
 $str
 3variable       //Gibt einen Syntax error wieder
 ```
+
+## Reserved Words
