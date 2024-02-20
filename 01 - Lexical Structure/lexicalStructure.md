@@ -22,3 +22,5 @@
 ```
 
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
+
+## Literale
