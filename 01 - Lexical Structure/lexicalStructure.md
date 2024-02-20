@@ -24,3 +24,16 @@
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
 
 ## Literale
+
+- Ein Literal ist ein Wert ohne Deklaration einer Variable
+- Zum Beispiel:
+
+```js
+12; // Die number zwölf
+1.2; // Oder die number Eins komma zwei
+("hello"); // Ein Text string
+true; // Ein boolean Wert
+null; // Oder die Abwesenheit eines objects
+```
+
+- Also einfach alle Datentypen, ohne Zuweisung einer Variable, sind Literale
