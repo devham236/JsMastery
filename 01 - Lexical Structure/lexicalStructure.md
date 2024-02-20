@@ -57,4 +57,19 @@ $str
 3variable       //Gibt einen Syntax error wieder
 ```
 
-## Reserved Words
+## Reserved Words/Keywords
+
+- Manche Identifier oder Namen sind von JavaScript reserviert
+- Diese kannst du also nicht als deine Identifier benutzen
+- Folgende sind einige von JavaScript reservierten Keywords, die einen Sytax error wiedergeben wenn man diese als Identifier benutzt:
+
+```js
+async   else
+await   if
+break   import
+case    null
+class   new
+```
+
+- Es gibt noch viel mehr solcher reservierter Keywords, und sogar einige die man unter bestimmten Umständen benutzen darf.
+- In der Regel sollte man aber trotzdem verhindern diese als Identifier zu benutzen.
