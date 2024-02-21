@@ -82,5 +82,6 @@ class   new
 - Außerdem kannst du Umlaute, Buchstaben und andere Sprachenspezifische Charaktere als Identifier verwenden
 
 ```js
-
+const äöü = "deutsche Umlaute";
+const âéç = "französische Akzente";
 ```
