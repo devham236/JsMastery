@@ -73,3 +73,5 @@ class   new
 
 - Es gibt noch viel mehr solcher reservierter Keywords, und sogar einige die man unter bestimmten Umständen benutzen darf.
 - In der Regel sollte man aber trotzdem verhindern diese als Identifier zu benutzen.
+
+## Unicode
