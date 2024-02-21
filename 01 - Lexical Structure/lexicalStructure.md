@@ -75,3 +75,7 @@ class   new
 - In der Regel sollte man aber trotzdem verhindern diese als Identifier zu benutzen.
 
 ## Unicode
+
+- Unicode ist ein extrem breiter und vielfältiger Charaktersatz der fast alle Zeichen und Symbole von sehr vielen Sprachen enthält.
+- JavaScript benutzt Unicode um mit Texten umzugehen.
+-
