@@ -80,3 +80,7 @@ class   new
 - JavaScript benutzt Unicode um mit Texten umzugehen.
 - Du kannst z.B für Emojis einen Unicode code eingeben, diesen erkennt JavaScript und stellt den entsprechenden Emoji dar.
 - Außerdem kannst du Umlaute, Buchstaben und andere Sprachenspezifische Charaktere als Identifier verwenden
+
+```js
+
+```
