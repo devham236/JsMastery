@@ -78,8 +78,7 @@ class   new
 
 - Unicode ist ein extrem breiter und vielfältiger Charaktersatz der fast alle Zeichen und Symbole von sehr vielen Sprachen enthält.
 - JavaScript benutzt Unicode um mit Texten umzugehen.
-- Du kannst z.B für Emojis einen Unicode code eingeben, diesen erkennt JavaScript und stellt den entsprechenden Emoji dar.
-- Außerdem kannst du Umlaute, Buchstaben und andere Sprachenspezifische Charaktere als Identifier verwenden
+- Du kannst Umlaute, Buchstaben und andere Sprachenspezifische Charaktere als Identifier verwenden
 
 ```js
 const äöü = "deutsche Umlaute";
