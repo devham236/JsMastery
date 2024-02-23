@@ -107,4 +107,13 @@ caf/u{E9}   // andere Form von Unicode escape
 
 ## Unicode Normalization
 
-- Unicode kann é zum Beispiel auf zwei verschiedene Art und Weisen codieren.
+- Unicode kann "é" zum Beispiel auf zwei verschiedene Art und Weisen codieren.
+- Entweder mit den Hexcode wie oben zu sehen oder in dem aus "é" ein normales "e" gemacht wird und dann ein ein weiterer Zahlencode (ein acute accent combining mark) hinten rangehängt wird
+- zum Beispiel:
+
+```js
+const café = 1; // Wird so codiert "caf/u{e9}"
+const café = 2; // Dieses wird so codiert "cafe/u{301}"
+```
+
+- JavaScript sieht diese beiden Variablen als zwei unterschiedliche Variablen an, was zu großer Verwirrung in einem Programm führen kann.
