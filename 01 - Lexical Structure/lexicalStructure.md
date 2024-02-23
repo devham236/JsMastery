@@ -87,3 +87,5 @@ const âéç = "französische Akzente";
 ```
 
 - Beide Variablen oben, können jetzt beliebig in allen JavaScript Programmen verwendet werden.
+
+## Unicode Escape Sequences
