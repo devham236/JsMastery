@@ -92,3 +92,5 @@ const âéç = "französische Akzente";
 
 - Manche Software oder Hardware kann nicht mit dem gesamten Unicode Charaktersatz umgehen
 - Dafür definiert JavaScript "Escape Sequences" mit denen du Unicode character (z.b deutsche Umlaute) mithilfe ASCII character schreiben kannst.
+- ASCII (American Standard Code for Information Interchange) character sind standardisierte "codes" für Englische Sprache.
+- Das bedeutet alle Buchstaben von a-z (lowercase und uppercase), alle Zahlen von 0-9 und alle Zeichen die man so auf fast allen Tastaturen findet (?, !, %...)
