@@ -106,3 +106,5 @@ caf/u{E9}   // andere Form von Unicode escape
 - Mit ES6 konnte man dann geschweifte Klammern verwenden, dadurch wurde das erstellen von Unicode Escape Sequences für Emojis deutlich vereinfacht.
 
 ## Unicode Normalization
+
+- Unicode kann é zum Beispiel auf zwei verschiedene Art und Weisen codieren.
