@@ -89,3 +89,6 @@ const âéç = "französische Akzente";
 - Beide Variablen oben, können jetzt beliebig in allen JavaScript Programmen verwendet werden.
 
 ## Unicode Escape Sequences
+
+- Manche Software oder Hardware kann nicht mit dem gesamten Unicode Charaktersatz umgehen
+- Dafür definiert JavaScript "Escape Sequences" mit denen du Unicode character (z.b deutsche Umlaute) mithilfe ASCII character schreiben kannst.
