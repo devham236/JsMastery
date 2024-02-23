@@ -117,3 +117,5 @@ const café = 2; // Dieses wird so codiert "cafe/u{301}"
 ```
 
 - JavaScript sieht diese beiden Variablen als zwei unterschiedliche Variablen an, was zu großer Verwirrung in einem Programm führen kann.
+- Deswegen musst du dafür sorgen das dein Editor eine gewisse "Unicode Normalization" durchführt, sodass ein identischer Unicode Charakter nicht auf zwei unterschiedlichen Weisen codiert wird.
+- JavaScript geht nämlich davon aus das dein Code, den er liest/interpretiert, schon einer "Normalization" untergangen ist!
