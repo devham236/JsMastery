@@ -97,5 +97,9 @@ const âéç = "französische Akzente";
 - Beispiele:
 
 ```js
-
+let café = 1
+caf/u00e9   // Unicode escape für é
+caf/u{E9}   // andere Form von Unicode escape
 ```
+
+- Vor der Version ES6, konnte man nur die Form mit den 4 Hexcodes für Unicode Escape Sequences verwenden
