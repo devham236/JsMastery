@@ -104,3 +104,5 @@ caf/u{E9}   // andere Form von Unicode escape
 
 - Vor der Version ES6, konnte man nur die Form mit den 4 Hexcodes für Unicode Escape Sequences verwenden
 - Mit ES6 konnte man dann geschweifte Klammern verwenden, dadurch wurde das erstellen von Unicode Escape Sequences für Emojis deutlich vereinfacht.
+
+## Unicode Normalization
