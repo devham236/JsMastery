@@ -121,3 +121,6 @@ const café = 2; // Dieses wird so codiert "cafe/u{301}"
 - JavaScript geht nämlich davon aus das dein Code, den er liest/interpretiert, schon einer "Normalization" untergangen ist!
 
 ## Optional Semicolons
+
+- Ein Semikolon ";" wird verwendet um Statements voneinander zu trennen
+- Semikolon werden nicht gebraucht wenn zwei Statements auf zwei verschiedenen Zeilen liegen oder wenn ein closing bracket vorliegt
