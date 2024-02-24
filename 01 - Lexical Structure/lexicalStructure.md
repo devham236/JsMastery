@@ -147,3 +147,10 @@ console.log(a)
 ```bash
 let a; a = 3; console.log(a);
 ```
+
+- Hier könnte es zu große Verwirrung führen wenn die Intention und die Interpretation nicht übereinstimmen:
+
+```bash
+let y = x + f
+(a+b).toString()
+```
