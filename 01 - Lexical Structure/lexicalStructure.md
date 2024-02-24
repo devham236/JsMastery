@@ -124,4 +124,11 @@ const café = 2; // Dieses wird so codiert "cafe/u{301}"
 
 - Ein Semikolon ";" wird verwendet um Statements voneinander zu trennen
 - Semikolon werden nicht gebraucht wenn zwei Statements auf zwei verschiedenen Zeilen liegen oder wenn ein closing bracket vorliegt
-- Hier sind einige Beispiele um zu verstehen wann Semikolon benötigt werden.
+- Hier sind einige Beispiele um zu verstehen wann Semikolon benötigt werden:
+
+```js
+a = 3;
+a = 4;
+```
+
+- Hier wird das Semikolon nach dem ersten Statement nicht benötigt.
