@@ -148,9 +148,15 @@ console.log(a)
 let a; a = 3; console.log(a);
 ```
 
-- Hier könnte es zu große Verwirrung führen wenn die Intention und die Interpretation nicht übereinstimmen:
+- Hier könnte es zu großer Verwirrung führen wenn die Intention und die Interpretation nicht übereinstimmen:
 
 ```bash
 let y = x + f
 (a+b).toString()
+```
+
+- JavaScript denkt das "f" eine function ist der die Parameter "a+b" bekommt und interpretiert wie folgt:
+
+```bash
+let y = x + f(a+b).toString()
 ```
