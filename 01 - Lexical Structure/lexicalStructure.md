@@ -107,7 +107,7 @@ caf/u{E9}   // andere Form von Unicode escape
 
 ## Unicode Normalization
 
-- Unicode kann "é" zum Beispiel auf zwei verschiedene Art und Weisen codieren.
+- Unicode kann zum Beispiel "é", auf zwei verschiedene Art und Weisen codieren.
 - Entweder mit den Hexcode wie oben zu sehen oder in dem aus "é" ein normales "e" gemacht wird und dann ein ein weiterer Zahlencode (ein acute accent combining mark) hinten rangehängt wird
 - zum Beispiel:
 
