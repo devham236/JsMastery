@@ -1,11 +1,11 @@
 # Lexical Structure
 
-**1. Comments**
-**2. Literals**
-**3. Identifier**
-**4. Reserved Words/Keywords**
-**5. Unicode**
-**6. Optional Semicolon**
+1. **Comments**
+2. **Literals**
+3. **Identifier**
+4. **Reserved Words/Keywords**
+5. **Unicode**
+6. **Optional Semicolon**
 
 - Die lexikalische Struktur bestimmt, wie eine Programmiersprache geschrieben werden muss.
 - Wie Variablennamen auszusehen haben, welche Zeichen ein Kommentar einleiten oder wie man Programmanweisungen trennen sollte.
