@@ -94,7 +94,7 @@ const âéç = "französische Akzente";
 
 - Beide Variablen oben, können jetzt beliebig in allen JavaScript Programmen verwendet werden.
 
-## Unicode Escape Sequences
+## 5.1 Unicode Escape Sequences
 
 - Manche Software oder Hardware kann nicht mit dem gesamten Unicode Charaktersatz umgehen
 - Dafür definiert JavaScript "Escape Sequences" mit denen du Unicode character (z.b deutsche Umlaute) mithilfe von ASCII character schreiben kannst.
@@ -112,7 +112,7 @@ caf/u{E9}   // andere Form von Unicode escape
 - Vor der Version ES6, konnte man nur die Form mit den 4 Hexcodes für Unicode Escape Sequences verwenden
 - Mit ES6 konnte man dann geschweifte Klammern verwenden, dadurch wurde das erstellen von Unicode Escape Sequences für Emojis deutlich vereinfacht.
 
-## Unicode Normalization
+## 5.2 Unicode Normalization
 
 - Unicode kann zum Beispiel "é", auf zwei verschiedene Art und Weisen codieren (encoding).
 - Entweder mit den Hexcode wie oben zu sehen oder in dem aus "é" ein normales "e" gemacht wird und dann ein ein weiterer Zahlencode (ein acute accent combining mark) hinten rangehängt wird
