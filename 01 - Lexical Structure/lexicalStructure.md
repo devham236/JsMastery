@@ -126,10 +126,24 @@ const café = 2; // Dieses wird so codiert "cafe/u{301}"
 - Semikolon werden nicht gebraucht wenn zwei Statements auf zwei verschiedenen Zeilen liegen oder wenn ein closing bracket vorliegt
 - Hier sind einige Beispiele um zu verstehen wann Semikolon benötigt werden:
 
-```js
+```bash
 a = 3;
 a = 4;
 ```
 
 - Hier wird das Semikolon nach dem ersten Statement nicht benötigt.
 - Schreibt man die Statements aber nebeneinander, braucht das erste Statement ein Semikolon.
+
+```bash
+let a
+a
+=
+3
+console.log(a)
+```
+
+- JavaScript würde den Code wie folgt interpretieren:
+
+```bash
+let a; a = 3; console.log(a);
+```
