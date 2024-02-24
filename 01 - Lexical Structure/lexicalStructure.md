@@ -33,7 +33,7 @@
 
 - Kommentare können beliebig lang sein, können aber nicht "genested" werden.
 
-## Literals
+## 2. Literals
 
 - Ein Literal ist ein alleinstehender Wert
 - Zum Beispiel:
@@ -48,7 +48,7 @@ null; // Oder die Abwesenheit eines objects
 
 - Also einfach alle Datentypen, ohne Zuweisung einer Variable, sind Literale
 
-## Indentifier
+## 3. Indentifier
 
 - Sind Namen von variables, functions, methods, events, properties, objects, classes usw.
 - Ein Identifier muss mit einem underscore **(\_)**, einem dollar sign **($)** oder mit einem Buchstaben beginnen.
@@ -64,7 +64,7 @@ $str
 3variable       //Gibt einen Syntax error wieder
 ```
 
-## Reserved Words/Keywords
+## 4. Reserved Words/Keywords
 
 - Manche Identifier oder Namen sind von JavaScript reserviert
 - Diese kannst du also nicht als deine Identifier benutzen
@@ -81,7 +81,7 @@ class   new
 - Es gibt noch viel mehr solcher reservierter Keywords, und sogar einige die man unter bestimmten Umständen benutzen darf.
 - In der Regel sollte man aber trotzdem verhindern diese als Identifier zu benutzen.
 
-## Unicode
+## 5. Unicode
 
 - Unicode ist ein extrem breiter und vielfältiger Charaktersatz der fast alle Zeichen und Symbole von sehr vielen Sprachen enthält.
 - JavaScript benutzt Unicode um mit Texten umzugehen.
@@ -127,7 +127,7 @@ const café = 2; // Dieses wird so codiert "cafe/u{301}"
 - Deswegen musst du dafür sorgen das dein Editor eine gewisse "Unicode Normalization" durchführt, sodass ein identischer Unicode Charakter nicht auf zwei unterschiedlichen Weisen codiert wird.
 - JavaScript geht nämlich davon aus das dein Code, den er liest/interpretiert, schon einer "Normalization" untergangen ist!
 
-## Optional Semicolons
+## 6. Optional Semicolons
 
 - Ein Semikolon ";" wird verwendet um Statements voneinander zu trennen
 - Semikolon werden nicht gebraucht wenn zwei Statements auf zwei verschiedenen Zeilen liegen oder wenn ein closing bracket vorliegt
