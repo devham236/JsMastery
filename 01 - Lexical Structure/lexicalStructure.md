@@ -132,3 +132,4 @@ a = 4;
 ```
 
 - Hier wird das Semikolon nach dem ersten Statement nicht benötigt.
+- Schreibt man die Statements aber nebeneinander, braucht das erste Statement ein Semikolon.
