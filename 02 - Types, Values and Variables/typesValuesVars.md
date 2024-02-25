@@ -1,1 +1,1 @@
-# Types, Valuas and Variables
+# Types, Values and Variables
