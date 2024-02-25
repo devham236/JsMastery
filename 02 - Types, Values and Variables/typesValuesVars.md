@@ -1,3 +1,3 @@
 # Datatypes, Values and Variables
 
-- Jede
+- Jede Programmiersprache hat einen eigenen Satz an Types/Datatypes
