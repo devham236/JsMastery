@@ -1,1 +1,3 @@
-# Types, Values and Variables
+# Datatypes, Values and Variables
+
+- Jede
