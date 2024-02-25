@@ -1,3 +1,4 @@
 # Datatypes, Values and Variables
 
-- Jede Programmiersprache hat einen eigenen Satz an Types/Datatypes
+- Kurzgesagt, geht es in der Softwareentwicklung/Computer Programmen um die manipulation von values(Werten).
+- Diese Werte haben immer einen Type/Datatype.
