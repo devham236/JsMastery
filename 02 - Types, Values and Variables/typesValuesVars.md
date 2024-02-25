@@ -6,3 +6,4 @@
 - Variablen haben einen Identifier bzw. einen Namen mit dem man sich auf den Wert beziehen kann.
 - JavaScript types kann man in zwei Kategorien einorden: "primitive types" und "object types".
 - Unter "primitive types" fallen **numbers**, **strings**, **booleans**, **Symbols**, **null** und **undefined**.
+- Alles andere wird als "object type" bezeichnet bzw. ist ein "object", also **objects** und **arrays**.
